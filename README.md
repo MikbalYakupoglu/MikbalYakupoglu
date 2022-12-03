@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently studying ASP.Net / Angular
+- I'm currently studying ASP.Net / Angular - React
 - Working on Unity
 
 
