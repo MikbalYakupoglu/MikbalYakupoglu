@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm currently studying ASP.Net
-- Working on Unity
+- Worked on Unity
 
 
 <a href="https://github.com/MikbalYakupoglu"><img src="https://github-readme-stats.vercel.app/api?username=MikbalYakupoglu&show_icons=true&theme=radical"/></a>
