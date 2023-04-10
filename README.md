@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-Learner.<br>Focused on Asp.Net Core.
+Self-Learner.<br>Studying Asp.Net Core.
 
 
 ## 🌐 Socials:
