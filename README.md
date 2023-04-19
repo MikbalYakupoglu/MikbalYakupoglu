@@ -5,7 +5,7 @@ Hello I'm Muhammet İkbal. <br>Studying Information Systems Engineering at Sakar
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/%20-Gmail-D14836?logo=gmail&logoColor=white)](mailto:muhammed.yakupoglu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammet-ikbal-yakupoglu) 
-[![LinkedIn](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18466420)
+[![LinkedIn](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18466420)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikbalyakupoglu) 
 
 
