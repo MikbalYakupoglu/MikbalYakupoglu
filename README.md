@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Muhammet İkbal. <br>Studying Information Systems Engineering at Sakarya University.<br>Working with .NET Web Technologies.
+Hello I'm Muhammet İkbal. <br>Studying Information Systems Engineering at Sakarya University.<br>Working with Web Development.
 
 
 ## 🌐 Socials:
